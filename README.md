@@ -6,7 +6,7 @@ This project predicts the **power output** of a Combined Cycle Power Plant using
 
 ## 📂 Dataset
 
-The dataset used is **Folds5x2_pp.xlsx**, containing the following features:
+The dataset used is **dataset.xlsx**, containing the following features:
 
 - **AT**: Temperature (in °C)
 - **V**: Exhaust Vacuum (in cm Hg)
