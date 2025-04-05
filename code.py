@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # 📁 Load Dataset
-dataset = pd.read_excel('/content/Folds5x2_pp.xlsx')
+dataset = pd.read_excel('dataset.xlsx')
 X = dataset.iloc[:, :-1]
 y = dataset.iloc[:, -1]
 
