@@ -48,7 +48,7 @@ The model is built using TensorFlow's Keras API with the following structure:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/yashgiri899/combined-cycle-powerplant-predictor.git
 cd your-repo-name
 ```
 
@@ -59,10 +59,10 @@ pip install -r requirements.txt
 
 ### 3. Run the script
 ```bash
-python power_output_prediction.py
+python code.py
 ```
 
-> Make sure `Folds5x2_pp.xlsx` is in the same directory.
+> Make sure `dataset.xlsx` is in the same directory.
 
 ---
 
@@ -86,5 +86,5 @@ Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 ## ✨ Author
 
-**[Your Name](https://github.com/your-username)**  
+**[Yash Vardhan Giri](https://github.com/yashgiri899)**  
 Feel free to ⭐ this repo if you found it helpful!
